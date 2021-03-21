@@ -91,4 +91,16 @@ program 11= to create a deadlink(by using hash symbol)
  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="relaxing cat"></a>
  </main>
  --------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
+ program 12= to create bulletin points
+ <h2>shanmukh</h2>
+ <p>view more 
+  <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat phots</a>
+ </p>
+ <a href="#"><img src="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" alt= small kittien></a>
+ <ul>
+  <li>cats are cute</li>
+  <li>cats like to drink milk</li>
+  <li>cats can jump high</li>
+  <p>
+   Cats seldom make any noise while walking or running. Cats have bright eyes and they can even see in the dark. Cat is found all over the world and milk is cats favourite. Many people keep cats as their pets to scare away the mice
+  </p>
