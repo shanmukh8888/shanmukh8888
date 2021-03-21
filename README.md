@@ -84,16 +84,11 @@ ghaugtfuapugtpirugpugtupiautgairgtgrtg
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 program 11= to create a deadlink(by using hash symbol)
 <h2>cat photo<h2>
+ <main>
  <P>view more cat photos 
   <a hreg="#" target="_blank"> catphotos</a>
   </p>
- <img src="https://bit.ly/fcc-relaxing-cat" alt="relaxing cat">
- --------------------------------------------------------------------------------------------------------------------------------------------------------------
- program10= to convert the image to a deadlink
- <h2>catphotos</h2>
- <main>
- <p>view more
-  <a href="#">catphotos</a>
- </p>
- <a href="#">img src="https://bit.ly/fcc-running-cats" alt="Three kittens running towards the camera." alt="relaxing cat"</a>
+ <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="relaxing cat"></a>
  </main>
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
