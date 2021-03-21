@@ -85,7 +85,7 @@ ghaugtfuapugtpirugpugtupiautgairgtgrtg
 program 11= to create a deadlink(by using hash symbol)
 <h2>cat photo<h2>
  <main>
- <P>view more cat photos 
+ <P>view more
   <a hreg="#" target="_blank">catphotos</a>
   </p>
  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="relaxing cat"></a>
