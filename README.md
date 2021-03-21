@@ -82,3 +82,9 @@ To create an internal link, you assign a link's href attribute to a hash symbol 
 ghaugtfuapugtpirugpugtupiautgairgtgrtg 
 </p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+program 7= to create a deadlink(by using hash symbol)
+<h2>cat photo<h2>
+ <P>view more cat photos 
+  <a hreg="#" target="_blank" alt="catphotos" > catphotos</a>
+  </p>
+ <img src="https://bit.ly/fcc-relaxing-cat" alt="relaxing cat">
