@@ -141,8 +141,8 @@ program 11= to create a deadlink(by using hash symbol)
       <h2>shanmukh srinivas chowdary<h2>
        <main>
        <p>view more
-        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ"></a>
-        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ alt=prabhas photo>
+        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprabhasraju&psig=AOvVaw07vdIX_suHXbgi-QRpqJPq&ust=1616424747888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC0-c7Rwe8CFQAAAAAdAAAAABAD"></a>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprabhasraju&psig=AOvVaw07vdIX_suHXbgi-QRpqJPq&ust=1616424747888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC0-c7Rwe8CFQAAAAAdAAAAABAD" alt=prabhas photo>
         <ul>
          <li>prabhas is from bhimavaram</li>
          <li>i am a fan of prabhas</li> 
@@ -157,8 +157,8 @@ program 11= to create a deadlink(by using hash symbol)
          <h2>shanmukh srinivas chowdary<h2>
        <main>
        <p>view more
-        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ"></a>
-        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ alt=prabhas photo>
+        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprabhasraju&psig=AOvVaw07vdIX_suHXbgi-QRpqJPq&ust=1616424747888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC0-c7Rwe8CFQAAAAAdAAAAABAD"></a>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprabhasraju&psig=AOvVaw07vdIX_suHXbgi-QRpqJPq&ust=1616424747888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC0-c7Rwe8CFQAAAAAdAAAAABAD" alt=prabhas photo>
         <ul>
          <li>prabhas is from bhimavaram</li>
          <li>i am a fan of prabhas</li> 
@@ -175,8 +175,8 @@ program 11= to create a deadlink(by using hash symbol)
           ---------------------------------------------------------------------------------------------------------------------------------------------------------------
           program17=add a submit button to the form
           <h2>html basics<h2>
-            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ"></a>
-        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ alt=prabhas photo>
+            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprabhasraju&psig=AOvVaw07vdIX_suHXbgi-QRpqJPq&ust=1616424747888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC0-c7Rwe8CFQAAAAAdAAAAABAD"></a>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprabhasraju&psig=AOvVaw07vdIX_suHXbgi-QRpqJPq&ust=1616424747888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC0-c7Rwe8CFQAAAAAdAAAAABAD" alt=prabhas photo>
         <ul>
          <li>prabhas is from bhimavaram</li>
          <li>i am a fan of prabhas</li> 
@@ -192,8 +192,8 @@ program 11= to create a deadlink(by using hash symbol)
           ----------------------------------------------------------------------------------------------------------------------------------------------------------------
              program 18=use HTML5 to require a field
              <h2>html basics<h2>
-            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ"></a>
-        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ alt=prabhas photo>
+            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprabhasraju&psig=AOvVaw07vdIX_suHXbgi-QRpqJPq&ust=1616424747888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC0-c7Rwe8CFQAAAAAdAAAAABAD"></a>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fprabhasraju&psig=AOvVaw07vdIX_suHXbgi-QRpqJPq&ust=1616424747888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC0-c7Rwe8CFQAAAAAdAAAAABADalt=prabhas photo">
         <ul>
          <li>prabhas is from bhimavaram</li>
          <li>i am a fan of prabhas</li> 
