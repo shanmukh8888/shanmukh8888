@@ -104,3 +104,108 @@ program 11= to create a deadlink(by using hash symbol)
   <p>
    Cats seldom make any noise while walking or running. Cats have bright eyes and they can even see in the dark. Cat is found all over the world and milk is cats favourite. Many people keep cats as their pets to scare away the mice
   </p>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  program 13=create an orderd list
+  <h2>shanmukh</h2>
+  <main>
+  <p>view more
+   <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">catphotos</a>
+  </p>
+  <img src="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" alt="cute cat">
+  <ul>
+   <li>cats like to play</li>
+   <li>cats llike to scratch soft items</li>
+   <li>cats nip</li>
+  </ul>
+  <p>things that cats donot like<p>
+  <ol>
+   <li>cats donot like to bath</li>
+   <li>cats donot like dogs</li>
+   <li>cats donot like to be pedded</li>
+  </ol>
+   </main>
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    program14=to create text field(<input type="text">)
+    <h2>shanmukh<h2>
+     <main>
+      <p>view more 
+      <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos</a>
+      <img src="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">
+       <input type="text">
+       <ul>
+        <li>enter anything in that box which should be text</li>
+      </ul>
+      </main>
+      ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      program 15=add place holder text to the text field
+      <h2>shanmukh srinivas chowdary<h2>
+       <main>
+       <p>view more
+        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ"></a>
+        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ alt=prabhas photo>
+        <ul>
+         <li>prabhas is from bhimavaram</li>
+         <li>i am a fan of prabhas</li> 
+        </ul>
+        <ol>
+         <li>prabhas acted as hero in bahubali</li>
+         <li>prabhas is still single</li>
+        </ol>
+        <input type="text" placeholder="prabhas photo url">
+        =---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        programe16=to create a form of element
+         <h2>shanmukh srinivas chowdary<h2>
+       <main>
+       <p>view more
+        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ"></a>
+        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ alt=prabhas photo>
+        <ul>
+         <li>prabhas is from bhimavaram</li>
+         <li>i am a fan of prabhas</li> 
+        </ul>
+        <ol>
+         <li>prabhas acted as hero in bahubali</li>
+         <li>prabhas is still single</li>
+        </ol>
+        <p>your feedback url please<p>
+        <form action=https://freecatphotoapp.com/submit-cat-photo>
+         <input type="text" place holder=prabhas photo url>
+        </form>
+          </main>
+          ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+          program17=add a submit button to the form
+          <h2>html basics<h2>
+            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ"></a>
+        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ alt=prabhas photo>
+        <ul>
+         <li>prabhas is from bhimavaram</li>
+         <li>i am a fan of prabhas</li> 
+        </ul>
+        <ol>
+         <li>prabhas acted as hero in bahubali</li>
+         <li>prabhas is still single</li>
+        </ol>
+           <form action=https://freecatphotoapp.com/submit-cat-photo>
+           <input type="text" placeholder="your feedback url">
+            <button type="submit">submit</button>
+            <main>
+          ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+             program 18=use HTML5 to require a field
+             <h2>html basics<h2>
+            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ"></a>
+        <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiawords.com%2Fblog%2Fprabhas-100-top-best-photos-and-latest-wallpapers-collection%2F&psig=AOvVaw0i8AovzFs9EQl_7KVPfqKJ&ust=1616421559932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMicrOLFwe8CFQAAAAAdAAAAABAJ alt=prabhas photo>
+        <ul>
+         <li>prabhas is from bhimavaram</li>
+         <li>i am a fan of prabhas</li> 
+        </ul>
+        <ol>
+         <li>prabhas acted as hero in bahubali</li>
+         <li>prabhas is still single</li>
+        </ol>
+        <form action=https://freecatphotoapp.com/submit-cat-photo>
+           <input type="text" placeholder="your feedback url"required>
+            <button type="submit">submit</button>
+            <main>
+         -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+             program19=create a set of radio buttons
+             
