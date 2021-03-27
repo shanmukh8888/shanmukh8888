@@ -224,7 +224,10 @@ program 11= to create a deadlink(by using hash symbol)
               <li>i love to read physics and practice maths</li>
              </ol>
              <input type="text" placeholder=feedback>
-             <botton>
+             <button>
               <input type="submit" placeholder=submit
-                     </botton>
-             
+                     </button>
+             --------------------------------------------------------------------------------------------------------------------------------------------------------------
+              program 20= creating a set of checkboxes
+              <h2>shanmukh</h2>
+              
