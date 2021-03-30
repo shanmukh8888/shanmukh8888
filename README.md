@@ -234,4 +234,14 @@ program 11= to create a deadlink(by using hash symbol)
                <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos</a>
               </p>
               <img src="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos>
+              <form action="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">
+               <label for=loving><input id="loving" type="checkbox" name="personality">loving</label>
+               <label for=improve><input id="improve" type="checkbox" name="personality">improve</label>
+               <label for=nice><input id="nice" type="checkbox" name="personality">nice</label>
+              <input type="text" placeholder="feedback">
+            <button>
+             <input type="submit" placeholder="submit">
+               </button>
+              </form>
+               
               
