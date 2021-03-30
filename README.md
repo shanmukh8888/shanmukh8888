@@ -243,5 +243,8 @@ program 11= to create a deadlink(by using hash symbol)
              <input type="submit" placeholder="submit">
                </button>
               </form>
-               
+               -----------------------------------------------------------------------------------------------------------------------------------------------------------
+              program 22=use the alt attribute with radio buttons and checkboxes
+              <h3>hi guys</h3>
+              
               
