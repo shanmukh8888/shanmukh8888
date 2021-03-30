@@ -230,4 +230,8 @@ program 11= to create a deadlink(by using hash symbol)
              --------------------------------------------------------------------------------------------------------------------------------------------------------------
               program 20= creating a set of checkboxes
               <h2>shanmukh</h2>
+              <p>view more
+               <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos</a>
+              </p>
+              <img src="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos>
               
