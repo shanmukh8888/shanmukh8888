@@ -246,5 +246,11 @@ program 11= to create a deadlink(by using hash symbol)
                -----------------------------------------------------------------------------------------------------------------------------------------------------------
               program 22=use the alt attribute with radio buttons and checkboxes
               <h3>hi guys</h3>
-              
-              
+              <img src="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos>
+             <p>view more
+              <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos</a>
+              <form action="https://freecatphotoapp.com/submit-cat-photo">
+               <input type="text" palceholder="feedback">
+              <label for=indoor>
+           <input type="checkbox" placeholder="loving" value="loving" name="personality">
+              <input id=" type="checkbox" 
