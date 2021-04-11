@@ -251,6 +251,21 @@ program 11= to create a deadlink(by using hash symbol)
               <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos</a>
               <form action="https://freecatphotoapp.com/submit-cat-photo">
                <input type="text" palceholder="feedback">
-              <label for=indoor>
-           <input type="checkbox" placeholder="loving" value="loving" name="personality">
-              <input id=" type="checkbox" 
+              <label>
+               <input id="loving" type="checkbox" value="loving" name="personality">loving</label>
+               <label>
+                <input id="boring" type="checkbox" name="personality" vlaue="boring>boring</label>
+             --------------------------------------------------------------------------------------------------------------------------------------------------------------
+              <h2>TO MAKE THE CHECKBOX AND RADIO OPTION ALREADY SELECTED BY DEFAULT<h2>
+              <p>view more
+               <img src="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos>cat photos</p>
+                <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">MORE CAT PHOTOS</a>
+                <label>
+                <input id="loving" type="checkbox" value="loving" name="personallity" checked>loving</label>
+                 <label>
+                <input id=boring type="checbox" value="boring" name="personality">boring</label>
+                 <label>
+                 <input id="indoor" type="radio" value="indoor" name="indoor-outd                                                                
+             
+                                                                                     
+                                                                                     
