@@ -257,6 +257,7 @@ program 11= to create a deadlink(by using hash symbol)
                 <input id="boring" type="checkbox" name="personality" vlaue="boring>boring</label>
              --------------------------------------------------------------------------------------------------------------------------------------------------------------
               <h2>TO MAKE THE CHECKBOX AND RADIO OPTION ALREADY SELECTED BY DEFAULT<h2>
+                <main>                                                             
               <p>view more
                <img src="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">cat photos>cat photos</p>
                 <a href="https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg" taget="_blank">MORE CAT PHOTOS</a>
@@ -265,7 +266,22 @@ program 11= to create a deadlink(by using hash symbol)
                  <label>
                 <input id=boring type="checbox" value="boring" name="personality">boring</label>
                  <label>
-                 <input id="indoor" type="radio" value="indoor" name="indoor-outd                                                                
+                 <input id="indoor" type="radio" value="indoor" name="indoor-outdoor" checked>Indoor</label>
+                 </main>
+                -----------------------------------------------------------------------------------------------------------------------------------------------------------
+                 <h2>use div to seperate the code into parts which is used by javascript<h2>
+                   <main>
+                  <p>view more
+                   <a href="#">cat photos</p>
+                    <div>          
+                   <ol>
+                   <li>cat like to be peded</li>
+                   </ol>
+                   <div>
+                  ----------------------------------------------------------------------------------------------------------------------------------------------------------            
+                              
+                                                                                                
+                       
              
                                                                                      
                                                                                      
